@@ -1,6 +1,6 @@
 # Phoenix
 def my_superfunction():
-    print('What an awesome print!')
+    print('Hell0, python!!!')
 
 
 def main():
